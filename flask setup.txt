@@ -1,0 +1,7 @@
+1. create a folder and open it in vs code
+2. ctrl+shift+p ----> type python:create environment
+3. click venv enter
+4. python -m pip install flask
+5. pip install flask-mysql , pip install pymysql
+6. create folder app.py ---> write code.
+7. to run the cile python app.py
